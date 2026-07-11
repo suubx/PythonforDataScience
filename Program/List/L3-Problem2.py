@@ -12,7 +12,3 @@ for i in range(10):
 
 print("Complete list:", list_of_numbers)
 print("Total number of elements:", len(list_of_numbers))
-
-# f stands for "format." It allows to inject math or variables directly into a sentence.
-# If the loop is on its very first run, i is 0. So, {i + 1} becomes 1. The computer prepares the sentence: "Enter integer 1: "
-# On the next run, i is 1. So, {i + 1} becomes 2. The sentence becomes: "Enter integer 2:
